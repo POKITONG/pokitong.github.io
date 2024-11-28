@@ -1,0 +1,7 @@
+{
+  "imageSettings": {
+    "defaultPath": "images/${articleName}",
+    "fileNamePattern": "image${index}.png",
+    "autoMoveImages": true,
+  }
+}
